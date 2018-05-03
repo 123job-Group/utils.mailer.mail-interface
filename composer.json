@@ -14,7 +14,7 @@
     ],
     "require": {
     	"php": ">=5.3.0",
-        "pelago/emogrifier" : "~1.0@alpha",
+        "pelago/emogrifier" : "^2.0",
         "soundasleep/html2text" : "~0.2.0"
     },
     "autoload": {
